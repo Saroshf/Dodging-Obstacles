@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+
+canvas {
+    border: 2px solid grey;
+}
+
+div {
+    font-size: 20px;
+    border: 3px solid black;
+}
+
+button {
+    margin-top: 10px;
+}
